@@ -8,3 +8,6 @@ Create a visually interactive scene in a Swift playground that can be experience
 
 # What I created
 Created a swift playground implementing the Game of Life with usage of Foundation, UKIT and Playground Support Frameworks 
+
+# What I learned 
+This was my first time venturing into the world of appliction development. 
